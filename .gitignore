@@ -4,4 +4,11 @@
 Homestead.yaml
 Homestead.json
 .env
+<<<<<<< HEAD
 .idea/
+=======
+
+
+
+.DS_Store
+>>>>>>> 06b554c56b2450e5730394dffdca9c09ca28caaf
